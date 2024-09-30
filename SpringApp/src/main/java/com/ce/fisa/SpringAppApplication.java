@@ -8,7 +8,7 @@ public class SpringAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAppApplication.class, args);
-		System.out.print("반갑습네다");
+		System.out.print("무한도전");
 	}
 	
 }
