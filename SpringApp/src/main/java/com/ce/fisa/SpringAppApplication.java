@@ -8,7 +8,7 @@ public class SpringAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAppApplication.class, args);
-		System.out.print("야");
+		System.out.print("국군의날");
 	}
 	
 }
